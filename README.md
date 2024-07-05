@@ -12,7 +12,7 @@ I am a passionate Web Developer with experience in building web applications usi
 - 🤔 I’m looking for help with cloud deployment and DevOps practices
 - 💬 Ask me about web development, React, and JavaScript
 - 📫 How to reach me: [atharvchawna@gmail.com](mailto:atharvchawna@gmail.com)
-- ⚡ Fun fact: I love playing online strategy games!
+- ⚡ Fun fact: I love to create attractive website!
 
 ## 🛠️ Technologies & Tools
 
