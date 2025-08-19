@@ -6,7 +6,7 @@ I am a passionate Web Developer with experience in building web applications usi
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on multiple projects.
+- 🔭 I’m currently working on multiple projects and addicted with web3.
 - 🌱 I’m currently learning advanced React techniques and TypeScript
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with cloud deployment and DevOps practices
