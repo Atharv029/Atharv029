@@ -1,4 +1,4 @@
-# Hi there, I'm Atharv Chawan! 👋
+# Hi there 👋
 
 
 
@@ -11,7 +11,6 @@ I am a passionate Web Developer with experience in building web applications usi
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with cloud deployment and DevOps practices
 - 💬 Ask me about web development, React, and JavaScript
-- 📫 How to reach me: [atharvchawna@gmail.com](mailto:atharvchawna@gmail.com)
 - ⚡ Fun fact: I love to create attractive website!
 
 ## 🛠️ Technologies & Tools
